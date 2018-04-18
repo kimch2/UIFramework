@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UIFramework.Plugins", "UIFramework.Plugins.csproj", "{C37DD2BD-F429-635B-97A2-ADD93D38193C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UIFramework.Editor.Plugins", "UIFramework.Editor.Plugins.csproj", "{CEE5D564-7D09-54D9-1FA4-DD26677E0A4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C37DD2BD-F429-635B-97A2-ADD93D38193C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C37DD2BD-F429-635B-97A2-ADD93D38193C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C37DD2BD-F429-635B-97A2-ADD93D38193C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C37DD2BD-F429-635B-97A2-ADD93D38193C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEE5D564-7D09-54D9-1FA4-DD26677E0A4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEE5D564-7D09-54D9-1FA4-DD26677E0A4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEE5D564-7D09-54D9-1FA4-DD26677E0A4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEE5D564-7D09-54D9-1FA4-DD26677E0A4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
